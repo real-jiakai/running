@@ -16,6 +16,10 @@ module.exports = {
         name: 'About',
         url: 'https://blog.gujiakai.top/about',
       },
+      {
+        name: '2019~2023',
+        url: 'https://running.gujiakai.top',
+      },
     ],
   },
   plugins: [
