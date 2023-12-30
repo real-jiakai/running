@@ -16,7 +16,6 @@ aiofiles
 cloudscraper==1.2.58
 git+https://github.com/alenrajsp/tcxreader.git
 rich
-lxml
 libxml2
 libxslt
 eviltransform
