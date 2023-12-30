@@ -16,8 +16,7 @@ aiofiles
 cloudscraper==1.2.58
 git+https://github.com/alenrajsp/tcxreader.git
 rich
-libxml2
-libxslt
+lxml
 eviltransform
 stravaweblib
 tenacity
